@@ -63,3 +63,13 @@ else:
     print "变量 b 在给定的列表 list 中"
 
 
+#条件语句
+name = 'Tinna'
+if name == 'Tinna':
+    print  "welcome boss, Tinna"
+else:
+    print  False
+
+
+
+
